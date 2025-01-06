@@ -7,7 +7,7 @@ I’m **Guy Cherkesky**, a passionate software developer with over a decade of e
 ---
 
 ## 🚀 About Me
-- **👨‍💻 Currently Working On:** Scalable distributed systems and backend optimizations.
+- **👨‍💻 Currently Working On:** Scalable distributed systems and backend optimizations. Also, working on a React Native Expo personal project (Yes, yes I'm working with the new bridgeless architecture 😅 )
 - **🌱 Learning:** Advanced cloud architecture and machine learning integrations.
 - **📫 Reach Me:** [LinkedIn](https://www.linkedin.com/in/cherkesky/)
 
