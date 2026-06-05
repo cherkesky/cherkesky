@@ -24,43 +24,30 @@ Previously, I worked at **Comcast** and **HealthStream**, building ETL systems, 
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/>
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherkesky&layout=compact&hide_border=true"
-  />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,ts,react,nodejs,aws,terraform,docker,kubernetes,postgres,mongodb" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### Taskquatch
+### 🦣 Taskquatch
 
 Hyperlocal marketplace connecting neighbors with trusted local providers.
 
-### Cloud & Infrastructure
+**Highlights**
 
-Production infrastructure, deployment automation, and scalable distributed systems.
+* 5,000+ users
+* 500+ vendors
+* 100+ DAU
+* Live across 7 cities
 
-### Experiments
+### ☁️ Cloud & Infrastructure
+
+Production infrastructure, deployment automation, CI/CD pipelines, and distributed systems.
+
+### 🤖 Experiments
 
 AI, automation, and product prototypes.
 
@@ -78,3 +65,4 @@ AI, automation, and product prototypes.
 
 * LinkedIn → https://linkedin.com/in/cherkesky
 * Taskquatch → https://taskquatch.app
+* GitHub → https://github.com/cherkesky
