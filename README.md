@@ -30,6 +30,13 @@ Previously, I worked at **Comcast** and **HealthStream**, building ETL systems, 
 
 ---
 
+## 🏅 Certifications
+
+* AWS Certified AI Practitioner
+* AWS Certified Machine Learning Engineer – Associate
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🦣 Taskquatch
