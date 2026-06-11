@@ -39,7 +39,7 @@ Previously, I worked at **Comcast** and **HealthStream**, building ETL systems, 
 
 ## 🚀 Featured Projects
 
-### 🦣 Taskquatch
+### 🫈 Taskquatch
 
 Hyperlocal marketplace connecting neighbors with trusted local providers.
 
