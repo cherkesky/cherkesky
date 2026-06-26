@@ -1,6 +1,6 @@
 # Hi, I'm Guy 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:003F4E,100:0E7490\&height=180\&section=header\&text=Guy%20Cherkesky\&fontSize=42\&fontColor=ffffff\&desc=Software%20Engineer%20•%20Founder%20•%20Cloud%20Infrastructure\&descAlignY=68)
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:003F4E,100:0E7490\&height=180\&section=header\&text=Guy%20Cherkesky\&fontSize=42\&fontColor=ffffff\&desc=Senior%20Software%20Engineer%20•%20Founder%20•%20Cloud%20Infrastructure\&descAlignY=68)
 
 Senior software engineer and startup founder focused on building products from concept to production.
 
