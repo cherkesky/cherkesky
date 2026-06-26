@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:003F4E,100:0E7490\&height=180\&section=header\&text=Guy%20Cherkesky\&fontSize=42\&fontColor=ffffff\&desc=Software%20Engineer%20•%20Founder%20•%20Cloud%20Infrastructure\&descAlignY=68)
 
-Software engineer and startup founder focused on building products from concept to production.
+Senior software engineer and startup founder focused on building products from concept to production.
 
 I work across full stack engineering, cloud infrastructure, distributed systems, and product delivery with a strong focus on AWS and scalable architectures.
 
