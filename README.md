@@ -48,7 +48,7 @@ Hyperlocal marketplace connecting neighbors with trusted local providers.
 * 3,000+ downloads
 * 500+ vendors
 * 100+ DAU
-* Live across 7 cities
+* Live in Nashville metro area and middle TN.
 
 ### ☁️ Cloud & Infrastructure
 
