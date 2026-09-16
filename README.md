@@ -45,7 +45,7 @@ Hyperlocal marketplace connecting neighbors with trusted local providers.
 
 **Highlights**
 
-* 5,000+ users
+* 3,000+ downloads
 * 500+ vendors
 * 100+ DAU
 * Live across 7 cities
